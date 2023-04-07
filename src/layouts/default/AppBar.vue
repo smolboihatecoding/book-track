@@ -10,7 +10,7 @@
       
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
 
-      <v-toolbar-title>Book</v-toolbar-title>
+      <v-toolbar-title>BookMenyu</v-toolbar-title>
 
       <v-btn icon>
         <v-icon>mdi-magnify</v-icon>
